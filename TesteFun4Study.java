@@ -1,4 +1,4 @@
-//Autor: Rodrigo Mariano Scalon Fraga - Unisinos 2021/2 - Desafio módulo 4 - Laboratório I.
+//Autor: Rodrigo Mariano Scalon Fraga - Unisinos 2021/2 - Desafio módulo 5 - Laboratório I.
 import java.util.ArrayList;
 import java.util.Scanner;
 
